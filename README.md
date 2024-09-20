@@ -3,7 +3,8 @@ MATLAB code to generate Cadence SKILL script to assist in analog layout. The wra
 
 **Sample chip-top layout generated using the wrapper functions:**
 
-https://github.com/user-attachments/assets/3bfdf2ef-4a84-42b6-8777-dcc95186c58f
+![Sample](Sample_layout.gif) 
+
 
 
 **Sample power grid generated using the wrapper functions (Zoomed In):**
