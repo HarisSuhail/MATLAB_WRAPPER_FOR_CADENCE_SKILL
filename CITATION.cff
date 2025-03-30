@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+repository-code: "https://github.com/HarisSuhail/MATLAB_WRAPPER_FOR_CADENCE_SKILL"
 authors:
   - family-names: Suhail
     given-names: Haris
